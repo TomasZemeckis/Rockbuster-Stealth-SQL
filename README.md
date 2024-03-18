@@ -10,3 +10,11 @@ A movie rental firm called Rockbuster Stealth LLC once had locations all over th
 - Do sales figures vary between geographic regions?
 ## Data
 The Rockbuster Data Set was produced by CareerFoundry specifically for this investigation. The data set comprises addresses for stores, employees, merchandise, actors, films, names, genres, and languages, as well as information on past rentals and payments. [Download Data Set](https://images.careerfoundry.com/public/courses/data-immersion/A3/E3.1%20/actor.csv)
+## Context
+The goal of this project is to improve decision-making for the impending online service transition by addressing requests from various departments through in-depth data analysis using SQL.
+## Project Deliverables
+The project's conclusion is a thorough analysis that is supported by SQL queries, visuals, and a story that converts complicated data into useful business insights.
+## Tools
+The data was analyzed using a relational database management system and PostgreSQL.
+## Visualizations
+All visualizations were created in Tableau Public and in Power Point and it can be viewed in atached [Presentation PDF](https://github.com/TomasZemeckis/Rockbuster-Stealth-SQL/files/14635965/Presentation.of.Rockbuster.pdf)
